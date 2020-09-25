@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Hajiahmad Ahmadzada"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M3t3kh4n's Security Blog"
   location         : "127.0.0.1"
   email            :
