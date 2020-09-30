@@ -1,6 +1,6 @@
 ---
 title: "VulnHub - LazySysAdmin1 Walkthrough"
-date: 2020-10-01
+date: 2020-10-1
 tags: [vulnhub, walkthrough]
 header:
   image: "/images/lazysysadmin1-thumbnail.jpg"
