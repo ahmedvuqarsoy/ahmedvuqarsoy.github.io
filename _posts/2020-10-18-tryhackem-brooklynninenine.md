@@ -3,7 +3,7 @@ title: "Tryhackme - Brooklyn Nine Nine Walkthrough"
 date: 2020-10-18
 tags: [tryhackme, walkthrough, linux]
 header:
-  image: "/images/unknowndevice64-thumbnail.jpg"
+  image: "/images/not-found.gif"
 excerpt: "Walkthroughs"
 ---
 
